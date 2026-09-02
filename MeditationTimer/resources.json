@@ -1,0 +1,5 @@
+[
+  { "title": "LinkedIn", "subtitle": "Connect with me", "systemImage": "briefcase.fill", "url": "https://www.linkedin.com/in/azadibogolubov" },
+  { "title": "YouTube", "subtitle": "Watch my videos", "systemImage": "play.rectangle.fill", "url": "https://www.youtube.com/@AzadiDegreesOfFreedom" },
+  { "title": "Website", "subtitle": "Degrees of Freedom", "systemImage": "globe", "url": "https://azadibogolubov.github.io/" }
+]
